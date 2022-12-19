@@ -1,5 +1,3 @@
-# first_homework
-
 A new Flutter project.
 
 ## Getting Started
